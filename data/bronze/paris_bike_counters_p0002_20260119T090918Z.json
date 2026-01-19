@@ -1,0 +1,1157 @@
+{
+  "nhits": 137,
+  "parameters": {
+    "dataset": "comptage-velo-compteurs",
+    "rows": 100,
+    "start": 100,
+    "format": "json",
+    "timezone": "UTC"
+  },
+  "records": [
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "dd51fc5d7a2504dc1c26567607f3763bf1db0566",
+      "fields": {
+        "coordinates": [
+          48.85013,
+          2.35423
+        ],
+        "counter": "Y2H19070383",
+        "url_sites": "https://www.eco-visio.net/Photos/100056336",
+        "photos": "https://filer.eco-counter-tools.com/file/0d/e7fbd25a16237ef47701c82a75418a3d8cbbfd0ad30fb96e7f471489bcc8f40d/Y2H19070383_20250729110016.jpg/https://filer.eco-counter-tools.com/file/2c/fff4646e401ec8bc0a8ad926fa18aa5898e333e683f8d31b82b4092053a36c2c/Y2H19070383_20220803104828.jpg/https://filer.eco-counter-tools.com/file/2d/9fb9cbac1a27c6f0bd8fc7cadd113c2193a80dad5ef6839ed5961ea81220ab2d/Y2H19070383_20210810181445.jpg/https://filer.eco-counter-tools.com/file/c8/5e1a918f9d136442e19b001650ec4efda2420bfddfa741b753442745159b5ac8/Y2H19070383_20240613113909.jpg/https://filer.eco-counter-tools.com/file/e0/a60a0302edda30b1121eae6bdcb811c738aa7390bc6e19735c651eba12febae0/15736425280750.jpg",
+        "channel_id": "103056336",
+        "channel_name": "SE-NO",
+        "id": "100056336",
+        "name": "27 quai de la Tournelle",
+        "id_compteur": "100056336-103056336",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/0d/e7fbd25a16237ef47701c82a75418a3d8cbbfd0ad30fb96e7f471489bcc8f40d/Y2H19070383_20250729110016.jpg",
+        "nom_compteur": "27 quai de la Tournelle SE-NO",
+        "installation_date": "2019-11-14",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/0d/e7fbd25a16237ef47701c82a75418a3d8cbbfd0ad30fb96e7f471489bcc8f40d/Y2H19070383_20250729110016.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.85013
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "e55ad2463554352623498dd36c1708c4c77f9436",
+      "fields": {
+        "coordinates": [
+          48.82561,
+          2.314274
+        ],
+        "counter": "Y2H22115087",
+        "url_sites": "https://www.eco-visio.net/Photos/300030121",
+        "photos": "https://filer.eco-counter-tools.com/file/8b/5503ab3d3356579cc42cca139c620b2b13d610b9768d4f615f6453d3957b008b/Y2H22115087_20230124154401.jpg/https://filer.eco-counter-tools.com/file/c2/8bebde6c60eedad82c14b6f0255c1a6f7ba1211ed86b46c0f84d6e93ae8125c2/Y2H22115087_20250730123401.jpg/https://filer.eco-counter-tools.com/file/e1/e5ec0a19dd37a8196ea9e95b78c96db3ff97420526bfd50ff6cb7139fc9704e1/Y2H22115087_20240611142929.jpg",
+        "channel_id": "353354988",
+        "channel_name": "NO-SE",
+        "id": "300030121",
+        "name": "72 boulevard Brune",
+        "id_compteur": "300030121-353354988",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/8b/5503ab3d3356579cc42cca139c620b2b13d610b9768d4f615f6453d3957b008b/Y2H22115087_20230124154401.jpg",
+        "nom_compteur": "72 boulevard Brune NO-SE",
+        "installation_date": "2023-01-24",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/8b/5503ab3d3356579cc42cca139c620b2b13d610b9768d4f615f6453d3957b008b/Y2H22115087_20230124154401.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314274,
+          48.82561
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "719c3f4cb79dd2afa57488c993547694842efa6c",
+      "fields": {
+        "coordinates": [
+          48.864771,
+          2.410724
+        ],
+        "counter": "Y2H19070360",
+        "url_sites": "https://www.eco-visio.net/Photos/300030838",
+        "photos": "https://filer.eco-counter-tools.com/file/10/21530794231048ccd15bdf14600265422596283c187dd2b78fa884a3a4b93c10/Y2H19070360_20230307175905.jpg/https://filer.eco-counter-tools.com/file/d4/2b4a0e2bd412c4f5c34f303feea19c626fce70cd9fa544a83725e3bc5dc7c2d4/Y2H19070360_20240618121524.jpg",
+        "channel_id": "353360367",
+        "channel_name": "O-E",
+        "id": "300030838",
+        "name": "12 avenue de la Porte de Bagnolet",
+        "id_compteur": "300030838-353360367",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/10/21530794231048ccd15bdf14600265422596283c187dd2b78fa884a3a4b93c10/Y2H19070360_20230307175905.jpg",
+        "nom_compteur": "12 avenue de la Porte de Bagnolet O-E",
+        "installation_date": "2023-03-07",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/10/21530794231048ccd15bdf14600265422596283c187dd2b78fa884a3a4b93c10/Y2H19070360_20230307175905.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.410724,
+          48.864771
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "8dc3bb1162fc917ed814f4384bec31020b2b3691",
+      "fields": {
+        "coordinates": [
+          48.898612,
+          2.37602
+        ],
+        "counter": "Y2H22125315",
+        "url_sites": "https://www.eco-visio.net/Photos/300030967",
+        "photos": "https://filer.eco-counter-tools.com/file/72/cae00727388182645a15ca641a77edd2ac756a2ddb692f9630404db183357472/Y2H22125315_20250729165313.jpg/https://filer.eco-counter-tools.com/file/d4/7f9a16b83907e76fa97d97b5d6738136ed5acd1e7283851ba5c24ac906e70fd4/Y2H22125315_20240612130252.jpg/https://filer.eco-counter-tools.com/file/ea/fc33e7a13c9eca132fb3a064a11f2cd69b1daa10067b66bca7ad683d9bd2d6ea/Y2H22125315_20230315155255.jpg",
+        "channel_id": "353361487",
+        "channel_name": "O-E",
+        "id": "300030967",
+        "name": "173 boulevard MacDonald",
+        "id_compteur": "300030967-353361487",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/72/cae00727388182645a15ca641a77edd2ac756a2ddb692f9630404db183357472/Y2H22125315_20250729165313.jpg",
+        "nom_compteur": "173 boulevard MacDonald O-E",
+        "installation_date": "2023-03-15",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/72/cae00727388182645a15ca641a77edd2ac756a2ddb692f9630404db183357472/Y2H22125315_20250729165313.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37602,
+          48.898612
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "5c6e2ef295c02e8d508dfa78ac67c7ca5389f99c",
+      "fields": {
+        "coordinates": [
+          48.882746,
+          2.323855
+        ],
+        "counter": "COM23090057",
+        "url_sites": "https://www.eco-visio.net/Photos/300037174",
+        "photos": "https://filer.eco-counter-tools.com/file/6e/1ce48ada57776b5315a5e47babdbe03387eeb1ae5173c0902caa016d6db2326e/29 Bd des Batignolles.jpg",
+        "channel_id": "353406823",
+        "channel_name": "E-O",
+        "id": "300037174",
+        "name": "29 boulevard des Batignolles",
+        "id_compteur": "300037174-353406823",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/6e/1ce48ada57776b5315a5e47babdbe03387eeb1ae5173c0902caa016d6db2326e/29 Bd des Batignolles.jpg",
+        "nom_compteur": "29 boulevard des Batignolles E-O",
+        "installation_date": "2023-10-31",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/6e/1ce48ada57776b5315a5e47babdbe03387eeb1ae5173c0902caa016d6db2326e/29 Bd des Batignolles.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323855,
+          48.882746
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "30517b4a1b367e21dd218c004668d5451676f6c3",
+      "fields": {
+        "coordinates": [
+          48.83436,
+          2.377
+        ],
+        "counter": "Y2H21015068",
+        "url_sites": "https://www.eco-visio.net/Photos/100036718",
+        "photos": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg/https://filer.eco-counter-tools.com/file/1b/6c9013a542a3c751f94c8b9a00db0ad3485054953a37aeddf45830482d5d311b/Y2H17021629_20200818165643.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png/https://filer.eco-counter-tools.com/file/89/a417e0e7a5a6a0be002e6b9f7f43b4db5eb3f1c15aa348294378f2b8d6cfa089/Y2H21015068_20220407102319.jpg/https://filer.eco-counter-tools.com/file/92/8dd0832756788947862701438d96ba9ac1f7524794109c2db14efa91a3e5bc92/Y2H21015068_20220803125012.jpg/https://filer.eco-counter-tools.com/file/9e/f997ab4793874f0832ae24c89ef2cafc87a78e90336527f7e9be38d0f4fec39e/15977626284870.jpg/https://filer.eco-counter-tools.com/file/a3/eb19fabc6ac19ee165b9a3d367b75c23705c0bc2ef3c0b7b4950e921840633a3/15765770808100.jpg/https://filer.eco-counter-tools.com/file/c3/3cc5746fc201948a4f89469db101780cf29dcc2c29e350f53351732871bfa5c3/Y2H17021629_20210810135800.jpg/https://filer.eco-counter-tools.com/file/d4/e8110bccec80e42806d28ea2f102e3cf93875f3e8add5dfa4ea0672af45ee3d4/14997911465211.jpg/https://filer.eco-counter-tools.com/file/d9/e055c4b719c875d6a250c8caf4ed5962c847d9d3b04251f053e86b5d088c2ad9/15767555313320.jpg/https://filer.eco-counter-tools.com/file/f2/1f6decacff618a4b568543f90909d8f562fd951737e6b8f53dbe567d64f87cf2/Y2H21015068_20250729150243.jpg",
+        "channel_id": "103036718",
+        "channel_name": "SE-NO",
+        "id": "100036718",
+        "name": "39 quai François Mauriac",
+        "id_compteur": "100036718-103036718",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+        "nom_compteur": "39 quai François Mauriac SE-NO",
+        "installation_date": "2017-07-12",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377,
+          48.83436
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "a99c7f3f8ab4b4b734f8e3db5ece68c7ca7f695b",
+      "fields": {
+        "coordinates": [
+          48.829523,
+          2.38699
+        ],
+        "counter": "Y2H20022165",
+        "url_sites": "https://www.eco-visio.net/Photos/100047546",
+        "photos": "https://filer.eco-counter-tools.com/file/06/ee5f9adfa2dabcea92a2f211d92cc6f2b1fabb5de223f5729674ec14a9753006/Y2H17021589_20200818163138.jpg/https://filer.eco-counter-tools.com/file/5f/3bc6e99032ac9d87b6e9fd025a9802dcb0c2de3f255d6b221239daaf62588b5f/15434937053860.jpg/https://filer.eco-counter-tools.com/file/5f/ae8699a4ad9b082338ab7a43c0a975d1f8feaf7edb28bf9329ac00032fdd7b5f/Y2H20022165_20210922192727.jpg/https://filer.eco-counter-tools.com/file/a3/5b5f5ceeb47407221b9b980b5874869634a9cfa27f6dc4e49d5f9de4483fd7a3/Y2H20022165_20240618144718.jpg/https://filer.eco-counter-tools.com/file/af/8d9793a8338f5888a56ab67ea454fe23773aea01f5a61eb6f11fd79a72223aaf/Y2H20022165_20220803130223.jpg/https://filer.eco-counter-tools.com/file/d4/77159aa37a08d33a9e699630d3cab2e8b29dfe12b4d783cc95937018e4c950d4/Y2H17021589_20210810132157.jpg/https://filer.eco-counter-tools.com/file/eb/ef2c66b2c0576e1a20fb46c2f2cf59aaa657afae1890d1259d0ca7ea193986eb/Y2H20022165_20250729155703.jpg",
+        "channel_id": "104047546",
+        "channel_name": "N-S",
+        "id": "100047546",
+        "name": "Face au 70 quai de Bercy",
+        "id_compteur": "100047546-104047546",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/06/ee5f9adfa2dabcea92a2f211d92cc6f2b1fabb5de223f5729674ec14a9753006/Y2H17021589_20200818163138.jpg",
+        "nom_compteur": "Face au 70 quai de Bercy N-S",
+        "installation_date": "2018-11-30",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/06/ee5f9adfa2dabcea92a2f211d92cc6f2b1fabb5de223f5729674ec14a9753006/Y2H17021589_20200818163138.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38699,
+          48.829523
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "2f5eaa20e79f40101437d6187ab2a6a618420a14",
+      "fields": {
+        "coordinates": [
+          48.84017,
+          2.33438
+        ],
+        "counter": "Y2H21015072",
+        "url_sites": "https://www.eco-visio.net/Photos/100049407",
+        "photos": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg/https://filer.eco-counter-tools.com/file/25/0717fd11c1d6320ea94b1da3a5fc3689535ea807158f895f6d9854b6c9cfb125/15977486431090.jpg/https://filer.eco-counter-tools.com/file/40/b0a266d7da6aa81d9d62d801b79865da76032fa8195fd8a05863ecded4498e40/Y2H21015072_20220725180228.jpg/https://filer.eco-counter-tools.com/file/75/8e415a6dcc6c37ea40ceb0e33742220927d4408dca9035f4c82e0c676d877575/Y2H21015072_20240611130940.jpg/https://filer.eco-counter-tools.com/file/c1/e41b6763a01d4eb20c24e2980edc6b71e2bf27b2e43988cac0f003cdd26850c1/Y2H21015072_20250730114009.jpg/https://filer.eco-counter-tools.com/file/e6/f878f67440525b0b655421f986c63209cdfa37dad30b7151bfdd2b993361a7e6/Y2H21015072_20220704182332.jpg/https://filer.eco-counter-tools.com/file/eb/ccbd18787048eef5d2dd8a07e258adf82a5790f11f7715f61440204171aef7eb/15444529154820.jpg/https://filer.eco-counter-tools.com/file/ee/27421ed2c4c5a455ef0dafb4a4fbcbaa97e1d2e68f9268d101d227972eee7dee/Y2H21015072_20220725175806.jpg/https://filer.eco-counter-tools.com/file/f2/204b3fd2189bb9354851dd0ec2258c27b34a987180d54ea2cc65fa2b8c7914f2/Y2H21015072_20220725180122.jpg/https://filer.eco-counter-tools.com/file/fd/b8abd0eab5ee234fc661378e4d8959728488c27da4e4f39036fda84a0cbccffd/Y2H19070373_20210224152726.jpg",
+        "channel_id": "353255860",
+        "channel_name": "E-O",
+        "id": "100049407",
+        "name": "152 boulevard du Montparnasse",
+        "id_compteur": "100049407-353255860",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+        "nom_compteur": "152 boulevard du Montparnasse E-O",
+        "installation_date": "2018-12-07",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33438,
+          48.84017
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "be0ad6f69cc0837c4d8eb762c35e364f815ed2dc",
+      "fields": {
+        "coordinates": [
+          48.86999,
+          2.30743
+        ],
+        "counter": "Y2H21111077",
+        "url_sites": "https://www.eco-visio.net/Photos/100056038",
+        "photos": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg/https://filer.eco-counter-tools.com/file/4e/6c224ead19f662ff59f031db31ad6079eea7d686677e832d010bf4f6f6ef944e/Y2H21111077_20240611111029.jpg/https://filer.eco-counter-tools.com/file/5f/d4d5c5bd654cf989713a8f698321451b3dece54ebf77786882cf5b2ea879345f/Y2H19070341_20220802124458.jpg/https://filer.eco-counter-tools.com/file/a2/1b49ad9585537d0bfea08557e7701197df5aee498f0df73cf65ba3bba02946a2/Y2H19070341_20210811093328.jpg/https://filer.eco-counter-tools.com/file/c1/c8f68c0bbec73d4fd7b0eaa8d23145541a6eb88080702028ee0c4133f6d4d8c1/15724491524180.jpg/https://filer.eco-counter-tools.com/file/c2/446934aa78ee806e7627399b5b94b7ed7fb5071447db686d1e5e17568ab2cac2/Y2H21111077_20240405093953.jpg",
+        "channel_id": "101056038",
+        "channel_name": "SE-NO",
+        "id": "100056038",
+        "name": "44 avenue des Champs Elysées",
+        "id_compteur": "100056038-101056038",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+        "nom_compteur": "44 avenue des Champs Elysées SE-NO",
+        "installation_date": "2019-10-30",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30743,
+          48.86999
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "1a60daf1a76bed6d11078113d461c7313ef62c60",
+      "fields": {
+        "coordinates": [
+          48.86279,
+          2.31055
+        ],
+        "counter": "Y2H21015014",
+        "url_sites": "https://www.eco-visio.net/Photos/100056046",
+        "photos": "https://filer.eco-counter-tools.com/file/1b/d7f0e18239e98d097bd9b712e1214c80d04480619659859b394abeb9f2a17b1b/Y2H21015014_20221116111218.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730354885050.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730363556220.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730364559870.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730380152520.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730380247370.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730513454820.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730514662960.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730514852910.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15730515026980.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731173812240.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731174626470.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731176162170.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731176530740.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731292133230.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731293338360.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731294389760.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731295047780.jpg/https://filer.eco-counter-tools.com/file/44/cca7d84852f7cf73ded7d248769fb9851bd5847a1f0bfe0b736ef1d1b6fb1e44/15730354761490.jpg?filename=15731316009810.jpg/https://filer.eco-counter-tools.com/file/b2/5c24c56403f1ace54900074105061145c317732092fc13343f5bb94d4ea3e5b2/Y2H19070357_20220802121810.jpg/https://filer.eco-counter-tools.com/file/e2/b2a419432fd8c362b8313a45a67ecc3a0fe79831193516ba88e26ca26bead1e2/Y2H19070357_20210811085532.jpg/https://filer.eco-counter-tools.com/file/e8/79a69bc6e280bdca36750fd05e9b1793e424b3a96796e51bfc292bd15aab2be8/Y2H21015014_20240611113837.jpg",
+        "channel_id": "101056046",
+        "channel_name": "S-N",
+        "id": "100056046",
+        "name": "Pont des Invalides",
+        "id_compteur": "100056046-101056046",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/1b/d7f0e18239e98d097bd9b712e1214c80d04480619659859b394abeb9f2a17b1b/Y2H21015014_20221116111218.jpg",
+        "nom_compteur": "Pont des Invalides S-N",
+        "installation_date": "2019-11-06",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1b/d7f0e18239e98d097bd9b712e1214c80d04480619659859b394abeb9f2a17b1b/Y2H21015014_20221116111218.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31055,
+          48.86279
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "beccf45f8f8ee27cf5277675d0ff63af32b9d7dc",
+      "fields": {
+        "coordinates": [
+          48.8638,
+          2.3202
+        ],
+        "counter": "Y2H24062200",
+        "url_sites": "https://www.eco-visio.net/Photos/100056047",
+        "photos": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg/https://filer.eco-counter-tools.com/file/26/ababdc9bb3857b985a60ae3c221cef8c20da44d1dee21217bdd0e26b0b1e5226/Y2H19070356_20240611122908.jpg/https://filer.eco-counter-tools.com/file/8f/13d561336b1c303df625b61c17c0d3d95c0ceef13545325e254624aac65acf8f/Y2H24062200_20240710144510.jpg/https://filer.eco-counter-tools.com/file/a1/4331f8e00541bdefdab20153f119323407863599e51a206768356ee68fdc17a1/Y2H24062200_20251209143305.jpg/https://filer.eco-counter-tools.com/file/a4/888294b28a23039cad9a6ad58914cc34dfbaaf70e26798ccd774c282aa10a0a4/Y2H24062200_20251209140814.jpg/https://filer.eco-counter-tools.com/file/a7/e0d933fb5667fa50a352ebc8eed42600197276fa2dc6c07858dec9edd78e51a7/Y2H24062200_20251209141408.jpg/https://filer.eco-counter-tools.com/file/af/8afea9a00ef79995adb33c88a65d790b7fa4761066528cf18476c7f95a147aaf/Y2H24062200_20251209141420.jpg/https://filer.eco-counter-tools.com/file/bc/dbd3853731127099186eeed06ea18eb118c5833f0b5c83c7730b4f6d4c54a0bc/15765769360530.jpg/https://filer.eco-counter-tools.com/file/cc/30eecc62b9a3b7944ac2cf0cae13cd28171a629a35b074bea4f4594faafd9bcc/Y2H19070356_20210810190805.jpg/https://filer.eco-counter-tools.com/file/ed/99986b1ba7303390b60beb5b64132efcb20c24298fdf3b3ca797750d6e1367ed/Y2H24062200_20251209140743.jpg/https://filer.eco-counter-tools.com/file/ef/29e62047a5565a578e772cd824eae927f6aa55f0838b3388030e080e914078ef/Y2H24062200_20251209140803.jpg",
+        "channel_id": "101056047",
+        "channel_name": "S-N",
+        "id": "100056047",
+        "name": "Pont de la Concorde",
+        "id_compteur": "100056047-101056047",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+        "nom_compteur": "Pont de la Concorde S-N",
+        "installation_date": "2019-11-08",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3202,
+          48.8638
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "b47feb082d97302e8877913b255a442bfece625a",
+      "fields": {
+        "coordinates": [
+          48.83428,
+          2.26526
+        ],
+        "counter": "Y2H19070377",
+        "url_sites": "https://www.eco-visio.net/Photos/100056331",
+        "photos": "https://filer.eco-counter-tools.com/file/39/ae197a8d145055785f3032693f4798009efd7ccd5df6f7df5c5d5679e17c5e39/Y2H19070377_20210810090330.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15729704284540.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15729704700910.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730296335560.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730297754180.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730298901320.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730299949080.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730352873520.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730354245660.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730354775440.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730354897340.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730363567380.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730364571260.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730380178030.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730380283790.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730513469050.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730514680220.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730514875980.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15730515065150.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731173854470.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731174669390.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731176199390.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731176575150.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731292159330.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731293362840.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731294413770.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731295071450.jpg/https://filer.eco-counter-tools.com/file/dc/cfd251cc79b0407c3b5fac791e612524c8094731b391cce4cae4e021e16cd2dc/15729703226390.jpg?filename=15731316034150.jpg/https://filer.eco-counter-tools.com/file/e4/700f4c7c59d558b26280ee8070161f5ecf21c0540bd14f2faab742c16ea65de4/Y2H19070377_20220802155302.jpg/https://filer.eco-counter-tools.com/file/e9/db9a138cdfc74d04249dd90193781a733ce181fc9588f45a00f5bf3d64a580e9/Y2H19070377_20240611154550.jpg/https://filer.eco-counter-tools.com/file/ec/d07ff15c88f9cded9f4158975c7bc92058321b93e57d9fd479d903d0e4e312ec/Y2H19070377_20250730163731.jpg",
+        "channel_id": "104056331",
+        "channel_name": "NE-SO",
+        "id": "100056331",
+        "name": "Face au 40 quai D'Issy",
+        "id_compteur": "100056331-104056331",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/39/ae197a8d145055785f3032693f4798009efd7ccd5df6f7df5c5d5679e17c5e39/Y2H19070377_20210810090330.jpg",
+        "nom_compteur": "Face au 40 quai D'Issy NE-SO",
+        "installation_date": "2019-11-05",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/39/ae197a8d145055785f3032693f4798009efd7ccd5df6f7df5c5d5679e17c5e39/Y2H19070377_20210810090330.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26526,
+          48.83428
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "8b84f9852292cddd818ab6afe3a852b4f2254c30",
+      "fields": {
+        "coordinates": [
+          48.898707,
+          2.357417
+        ],
+        "counter": "Y2H16029278",
+        "url_sites": "https://www.eco-visio.net/Photos/300030826",
+        "photos": "https://filer.eco-counter-tools.com/file/3e/5675ac8295a6f72be9d26a4f4886ebb13d94a626a3b279ad91a5e3c980e9f23e/Y2H16029278_20250729174341.jpg/https://filer.eco-counter-tools.com/file/69/3bcc879fc5d73c58afa1c6e161fb0c5df6a30e7859c75df6891ab8ebc9edca69/Y2H16029278_20250107104756.jpg/https://filer.eco-counter-tools.com/file/82/2db8d560b744c10ba53c6dbb0acf9d2f0c132c4ea1ca8f1bf0efa5858ab5a882/Y2H22125311_20240612123648.jpg/https://filer.eco-counter-tools.com/file/b6/36d847124bf29cb6c1cfff60ec6592f1788764157cb783ed94456e749900f0b6/Y2H22125311_20230307122230.jpg",
+        "channel_id": "353504976",
+        "channel_name": "E-O",
+        "id": "300030826",
+        "name": "62 boulevard Ney",
+        "id_compteur": "300030826-353504976",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/3e/5675ac8295a6f72be9d26a4f4886ebb13d94a626a3b279ad91a5e3c980e9f23e/Y2H16029278_20250729174341.jpg",
+        "nom_compteur": "62 boulevard Ney E-O",
+        "installation_date": "2023-03-07",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3e/5675ac8295a6f72be9d26a4f4886ebb13d94a626a3b279ad91a5e3c980e9f23e/Y2H16029278_20250729174341.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357417,
+          48.898707
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "e2a818716fb0f279491e2c8d19062dc9c3efe13f",
+      "fields": {
+        "coordinates": [
+          48.896461,
+          2.359415
+        ],
+        "counter": "ZLT24050837",
+        "url_sites": "https://www.eco-visio.net/Photos/300042350",
+        "photos": "https://filer.eco-counter-tools.com/file/25/2bea8873aef30e7a17434a77822e3191a2691808b6d9c67037b4bf03eb5b3525/ZLT24050837_1716973439132.jpg",
+        "channel_id": "353450161",
+        "channel_name": "IN [Bike]",
+        "id": "300042350",
+        "name": "86 rue de la Chapelle",
+        "id_compteur": "300042350-353450161",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/25/2bea8873aef30e7a17434a77822e3191a2691808b6d9c67037b4bf03eb5b3525/ZLT24050837_1716973439132.jpg",
+        "nom_compteur": "86 rue de la Chapelle IN [Bike]",
+        "installation_date": "2024-05-29",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/25/2bea8873aef30e7a17434a77822e3191a2691808b6d9c67037b4bf03eb5b3525/ZLT24050837_1716973439132.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.359415,
+          48.896461
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "8255a0368c8716539edcaf978e5bbfda4292c31d",
+      "fields": {
+        "coordinates": [
+          48.875073,
+          2.318004
+        ],
+        "counter": "ZLT25112772",
+        "url_sites": "https://www.eco-visio.net/Photos/300063022",
+        "photos": "https://filer.eco-counter-tools.com/file/40/89f0ccae663c7f306c6c247fe90acdaf93fd3a2e1aecaeffc9a5b9ddeabe3a40/ZLT25112772_1765365465841.jpg/https://filer.eco-counter-tools.com/file/a2/869130f9b6525778c34ca123bd2c791194fbb8ac509c83edbcbb6016aa0355a2/ZLT25112772_1765365454029.jpg",
+        "channel_id": "353662858",
+        "channel_name": "120 boulevard Haussmann Vélos",
+        "id": "300063022",
+        "name": "120 boulevard Haussmann",
+        "id_compteur": "300063022-353662858",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/40/89f0ccae663c7f306c6c247fe90acdaf93fd3a2e1aecaeffc9a5b9ddeabe3a40/ZLT25112772_1765365465841.jpg",
+        "nom_compteur": "120 boulevard Haussmann 120 boulevard Haussmann Vélos",
+        "installation_date": "2025-12-10",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/40/89f0ccae663c7f306c6c247fe90acdaf93fd3a2e1aecaeffc9a5b9ddeabe3a40/ZLT25112772_1765365465841.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318004,
+          48.875073
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "612e1664c1f196ebe0492044a6d62ba9ed7fca7a",
+      "fields": {
+        "coordinates": [
+          48.85372,
+          2.35702
+        ],
+        "counter": "Y2H21015012",
+        "url_sites": "https://www.eco-visio.net/Photos/100036719",
+        "photos": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png/https://filer.eco-counter-tools.com/file/54/8946a312899f621b1e2c7007e9f490f297cd915b9dfee93b4c96c557d5179c54/Y2H21015012_20240613112601.jpg/https://filer.eco-counter-tools.com/file/6c/7219aac71d6d7c03b90a5eb4b59de532d908084b261509e268a150be6948b76c/Y2H21015012_20250729103525.jpg/https://filer.eco-counter-tools.com/file/9d/176068e8b3503f6b68c846ec1741b3a744b56aede12fa81bfc29fa2c82f96d9d/X2H19027732_20190507110918.jpg/https://filer.eco-counter-tools.com/file/bd/7b7d73a0893fc9813d303fa82a8aec6a2888b910e721b344fe519737bf51e1bd/14997911939232.jpg/https://filer.eco-counter-tools.com/file/cc/7ee37fd33279ac655cb94dac2f5cabe37169064be3d172305eee095aa8eb48cc/Y2H21015012_20220407113640.jpg/https://filer.eco-counter-tools.com/file/cd/d97fc859bef5a19d217f46db0a4ee144cfc19d12fe12a8f8f8d6d837dd05f3cd/Y2H19027732_20210810183209.jpg/https://filer.eco-counter-tools.com/file/d0/1aba92aeca91f0ea6146e062f7994959da2ade84f8c5cded3b9f1e8424ea98d0/15718218590430.jpg/https://filer.eco-counter-tools.com/file/d7/030e39ece3b9677fd4ab1c1de4370b0613ad1c4cafd810f4b06b6489f8304cd7/Y2H21015012_20220803103347.jpg/https://filer.eco-counter-tools.com/file/db/b61f852e0d3afa4b9be0cdcfe0046cb3bb330efa17c3941fae25199cf2134fdb/14997911938171.jpg",
+        "channel_id": "103036719",
+        "channel_name": "SE-NO",
+        "id": "100036719",
+        "name": "18 quai de l'Hôtel de Ville",
+        "id_compteur": "100036719-103036719",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png",
+        "nom_compteur": "18 quai de l'Hôtel de Ville SE-NO",
+        "installation_date": "2017-07-12",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35702,
+          48.85372
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "1228544e33cc3aa0e46d1ca8248e1888dc0b2fac",
+      "fields": {
+        "coordinates": [
+          48.86149,
+          2.37376
+        ],
+        "counter": "Y2H18034809",
+        "url_sites": "https://www.eco-visio.net/Photos/100044493",
+        "photos": "https://filer.eco-counter-tools.com/file/47/eba21a17b6755a2c6412a9957ce48193fe5d4f8ffb34dd7b3f8a9fae4a741447/Y2H18034809_20250729123120.jpg/https://filer.eco-counter-tools.com/file/66/735aaf617596de01fcb9fa7abcbdd64ce1673184d31338359bce5ba4d25bc366/15718231423950.jpg/https://filer.eco-counter-tools.com/file/68/d5e7b51b0132bb5f130ad0366783dc2bb3df77f360556a769d0815cf109a4968/Y2H18034809_20200819121429.jpg/https://filer.eco-counter-tools.com/file/76/f5ac337e501a805dd5a6b639c96e1bb6f1291c62fcd24bfc806165d1e292c176/Y2H18034809_20210811114932.jpg/https://filer.eco-counter-tools.com/file/7d/ade19198856cd42d7e8ade9fdaa1f83dc9a9df77d26e62637f405c86012c3e7d/15978320854910.jpg/https://filer.eco-counter-tools.com/file/aa/3b42586ff284b1ed47b93003b456e95b962888d0cfec98d7e85988952a4c39aa/Y2H18034809_20240618131123.jpg/https://filer.eco-counter-tools.com/file/c2/fab6a7934a6f5d472a1b4e7f6c68552eca77bc5ac6773eb9472e307729be76c2/15302602919700.jpg/https://filer.eco-counter-tools.com/file/fa/57f590dd2aded726e99b9c6f52c0573180f1d4b8eb84f7c5bea9a11fabf280fa/Y2H18034809_20220802151938.jpg",
+        "channel_id": "101044493",
+        "channel_name": "SE-NO",
+        "id": "100044493",
+        "name": "67 boulevard Voltaire",
+        "id_compteur": "100044493-101044493",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/47/eba21a17b6755a2c6412a9957ce48193fe5d4f8ffb34dd7b3f8a9fae4a741447/Y2H18034809_20250729123120.jpg",
+        "nom_compteur": "67 boulevard Voltaire SE-NO",
+        "installation_date": "2018-06-27",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/47/eba21a17b6755a2c6412a9957ce48193fe5d4f8ffb34dd7b3f8a9fae4a741447/Y2H18034809_20250729123120.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37376,
+          48.86149
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "c5cd9b4dd0120db625ca2ded7edb9aa808fea5d9",
+      "fields": {
+        "coordinates": [
+          48.83082,
+          2.35317
+        ],
+        "counter": "Y2H18086319",
+        "url_sites": "https://www.eco-visio.net/Photos/100049408",
+        "photos": "https://filer.eco-counter-tools.com/file/12/5221f3c4c5526dcec2bdcc72f842d4fc5a7c030be0310ffc92cf941b2ffa1412/Y2H18086319_20200818133015.jpg/https://filer.eco-counter-tools.com/file/78/d661715f64ce698d77412e076ad38cf5cf41e7c9163de24b5830b1588c383f78/Y2H18086319_20240618123031.jpg/https://filer.eco-counter-tools.com/file/79/eac6465d18299b03522c52e4894bfc0b12a465bf05292d6ab68ecd09e9e0a779/15765754139120.jpg/https://filer.eco-counter-tools.com/file/7c/6486cb8faf4bf52c1640b0b2bbce85b4431961154580c966152beee9765b207c/Y2H18086319_20220803095319.jpg/https://filer.eco-counter-tools.com/file/e1/abd26a4fc1ace8891e21d8eaab7e63c6c3fb2a3ff1f66056e4ca8bebf7cf16e1/15977502369740.jpg",
+        "channel_id": "101049408",
+        "channel_name": "NE-SO",
+        "id": "100049408",
+        "name": "10 boulevard Auguste Blanqui",
+        "id_compteur": "100049408-101049408",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/12/5221f3c4c5526dcec2bdcc72f842d4fc5a7c030be0310ffc92cf941b2ffa1412/Y2H18086319_20200818133015.jpg",
+        "nom_compteur": "10 boulevard Auguste Blanqui NE-SO",
+        "installation_date": "2018-12-06",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/12/5221f3c4c5526dcec2bdcc72f842d4fc5a7c030be0310ffc92cf941b2ffa1412/Y2H18086319_20200818133015.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35317,
+          48.83082
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "a5731d494acc2637cfe1a23b03f5b0343e2c2a94",
+      "fields": {
+        "coordinates": [
+          48.84222,
+          2.30102
+        ],
+        "counter": "Y2H21015067",
+        "url_sites": "https://www.eco-visio.net/Photos/100056040",
+        "photos": "https://filer.eco-counter-tools.com/file/11/4c3b390b2e893a3033fc4e142df497653212a2c05a6eec5646711514b5d9d811/15723665426320.jpg/https://filer.eco-counter-tools.com/file/2f/0300bbfa3417179bd48b413e4ce5d83d73ae7e6de2f43bda581aa27c97093a2f/Y2H21015067_20250730154253.jpg/https://filer.eco-counter-tools.com/file/66/3011417f96e66424215591c398b68d65a20a714f571a7b285eb5b35cee115266/Y2H19070343_20210810102138.jpg/https://filer.eco-counter-tools.com/file/75/d30aff808d8476243c66e11bc53c8794e82e3023a41efc167b70eee8abb9ef75/15737393299040.jpg/https://filer.eco-counter-tools.com/file/7b/9af8b9ab3d2670c862c9a41b7c6eafef1568efd924a35266c662a7d9bd19147b/Y2H21015067_20240611150629.jpg/https://filer.eco-counter-tools.com/file/8d/ff8fa606faa56205c968d2594ccef4d383e2a0c7d2aabd8abe8536755f82668d/Y2H21015067_20220803114943.jpg/https://filer.eco-counter-tools.com/file/a7/07529397ba10c5606ec0018269e7d0fe0121afd5a0c51d771f8534b008fb6ea7/Y2H19070343_20200818103804.jpg/https://filer.eco-counter-tools.com/file/b6/d32d2a862076b60a6b2516674bb5306afa63d1875fb5712c365f6bbb7f556cb6/15977399085870.jpg/https://filer.eco-counter-tools.com/file/c3/1897609b3a484bc05d01010eef10f7c796a99a10ae07fcc018c0af6f56def8c3/Y2H21015067_20250730103719.jpg/https://filer.eco-counter-tools.com/file/e3/967f50ae8e30ae765ae608c95f60345f3b95584a503d2827448291da9903ede3/Y2H21015067_20211202122102.jpg",
+        "channel_id": "101056040",
+        "channel_name": "SO-NE",
+        "id": "100056040",
+        "name": "129 rue Lecourbe",
+        "id_compteur": "100056040-101056040",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/11/4c3b390b2e893a3033fc4e142df497653212a2c05a6eec5646711514b5d9d811/15723665426320.jpg",
+        "nom_compteur": "129 rue Lecourbe SO-NE",
+        "installation_date": "2019-10-30",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/11/4c3b390b2e893a3033fc4e142df497653212a2c05a6eec5646711514b5d9d811/15723665426320.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30102,
+          48.84222
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "0fd1130f9a929e38ace09b0927fc505b378bbcb0",
+      "fields": {
+        "coordinates": [
+          48.86502,
+          2.35387
+        ],
+        "counter": "Y2H18086325",
+        "url_sites": "https://www.eco-visio.net/Photos/100056334",
+        "photos": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg/https://filer.eco-counter-tools.com/file/47/eb5266d3c3a40112152ca8740ee3390f7281c3aea3eb701388ad75c6b8859a47/Y2H19070380_20220802142556.jpg/https://filer.eco-counter-tools.com/file/62/0e0c75a4501eb0b6371e4433951aa7363fd5c611dd001568e240749cf7a29362/Y2H19070380_20210811110713.jpg/https://filer.eco-counter-tools.com/file/8c/b64697b4add975d0fd8c5cb1f26179a693ff34505d6e0b6be807746d472fa08c/Y2H19070380_20240612160642.jpg/https://filer.eco-counter-tools.com/file/a6/00134892759dacd8bbc6b388c2ee0e7548c75ba7e8ec76dc1f27f7e11cb7d7a6/Y2H18086325_20250729110226.jpg/https://filer.eco-counter-tools.com/file/ca/9c4a084b6343b05b184db150520e8c956fb56f97cad66decbd04754d98ab3fca/Y2H18086325_20250107094243.jpg/https://filer.eco-counter-tools.com/file/d1/e2ee9e25e5d8c6f9d7f8f77ab73c6db973a2696abe18e3dcc9d8d3386478e1d1/15765765524970.jpg",
+        "channel_id": "104056334",
+        "channel_name": "SO-NE",
+        "id": "100056334",
+        "name": "38 rue Turbigo",
+        "id_compteur": "100056334-104056334",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+        "nom_compteur": "38 rue Turbigo SO-NE",
+        "installation_date": "2019-12-10",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35387,
+          48.86502
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "f0b63b5ae1c3e98083f6e7a9353a2da15f1a0d2a",
+      "fields": {
+        "coordinates": [
+          48.86377,
+          2.35096
+        ],
+        "counter": "YTH19111510",
+        "url_sites": "https://www.eco-visio.net/Photos/100057445",
+        "photos": "https://filer.eco-counter-tools.com/file/c2/83c8332cecd7df6dbdc75404dbaad2569d64c4392991a72488263806bfbf5bc2/YTH19111510_20220802102929.jpg/https://filer.eco-counter-tools.com/file/c5/cadc922eb739be6575dfc1e979d754064559108c9d4c0b198dd96ec80092b7c5/15809119368880.jpg",
+        "channel_id": "103057445",
+        "channel_name": "N-S",
+        "id": "100057445",
+        "name": "Totem 73 boulevard de Sébastopol",
+        "id_compteur": "100057445-103057445",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/c2/83c8332cecd7df6dbdc75404dbaad2569d64c4392991a72488263806bfbf5bc2/YTH19111510_20220802102929.jpg",
+        "nom_compteur": "Totem 73 boulevard de Sébastopol N-S",
+        "installation_date": "2020-02-11",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/c2/83c8332cecd7df6dbdc75404dbaad2569d64c4392991a72488263806bfbf5bc2/YTH19111510_20220802102929.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35096,
+          48.86377
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "80d556cd5780d20cf1b849cc7b473d0dd5f91ddd",
+      "fields": {
+        "coordinates": [
+          48.8402,
+          2.40889
+        ],
+        "counter": "Y2H24042016",
+        "url_sites": "https://www.eco-visio.net/Photos/300030172",
+        "photos": "https://filer.eco-counter-tools.com/file/5d/46fd522bd362e1adabcb8b563ae0177da0d6e48e12b043b2b43b019b42f6e05d/Y2H24042016_20250729164851.jpg/https://filer.eco-counter-tools.com/file/6e/44c933c642769d2faf81bf2260c3cba2d226afd37eb72be2eb2479345e077d6e/Y2H22115095_20230126124246.jpg/https://filer.eco-counter-tools.com/file/b2/2307e0382f32739d5a014cda0d9b08981e8a90355d70ec23e80d9959d77bedb2/Y2H24042016_20240618145448.jpg/https://filer.eco-counter-tools.com/file/fe/9db044137d36eea8539dd8c195e6eb999d7c0629755349928d09a6f713b018fe/Y2H24042016_20240415104734.jpg",
+        "channel_id": "353355278",
+        "channel_name": "N-S",
+        "id": "300030172",
+        "name": "42 boulevard Soult",
+        "id_compteur": "300030172-353355278",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/5d/46fd522bd362e1adabcb8b563ae0177da0d6e48e12b043b2b43b019b42f6e05d/Y2H24042016_20250729164851.jpg",
+        "nom_compteur": "42 boulevard Soult N-S",
+        "installation_date": "2023-01-26",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/5d/46fd522bd362e1adabcb8b563ae0177da0d6e48e12b043b2b43b019b42f6e05d/Y2H24042016_20250729164851.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40889,
+          48.8402
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "1b957fb36dbafa567ff2a64799049704cea46ace",
+      "fields": {
+        "coordinates": [
+          48.882746,
+          2.323855
+        ],
+        "counter": "COM23090057",
+        "url_sites": "https://www.eco-visio.net/Photos/300037174",
+        "photos": "https://filer.eco-counter-tools.com/file/6e/1ce48ada57776b5315a5e47babdbe03387eeb1ae5173c0902caa016d6db2326e/29 Bd des Batignolles.jpg",
+        "channel_id": "353406824",
+        "channel_name": "29 boulevard des Batignolles Trottinettes IN",
+        "id": "300037174",
+        "name": "29 boulevard des Batignolles",
+        "id_compteur": "300037174-353406824",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/6e/1ce48ada57776b5315a5e47babdbe03387eeb1ae5173c0902caa016d6db2326e/29 Bd des Batignolles.jpg",
+        "nom_compteur": "29 boulevard des Batignolles 29 boulevard des Batignolles Trottinettes IN",
+        "installation_date": "2023-10-31",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/6e/1ce48ada57776b5315a5e47babdbe03387eeb1ae5173c0902caa016d6db2326e/29 Bd des Batignolles.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323855,
+          48.882746
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "d86e56ec5240ff8bdddc42efd22df0bf375f0cd9",
+      "fields": {
+        "coordinates": [
+          48.85372,
+          2.35702
+        ],
+        "counter": "Y2H21015012",
+        "url_sites": "https://www.eco-visio.net/Photos/100036719",
+        "photos": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png/https://filer.eco-counter-tools.com/file/54/8946a312899f621b1e2c7007e9f490f297cd915b9dfee93b4c96c557d5179c54/Y2H21015012_20240613112601.jpg/https://filer.eco-counter-tools.com/file/6c/7219aac71d6d7c03b90a5eb4b59de532d908084b261509e268a150be6948b76c/Y2H21015012_20250729103525.jpg/https://filer.eco-counter-tools.com/file/9d/176068e8b3503f6b68c846ec1741b3a744b56aede12fa81bfc29fa2c82f96d9d/X2H19027732_20190507110918.jpg/https://filer.eco-counter-tools.com/file/bd/7b7d73a0893fc9813d303fa82a8aec6a2888b910e721b344fe519737bf51e1bd/14997911939232.jpg/https://filer.eco-counter-tools.com/file/cc/7ee37fd33279ac655cb94dac2f5cabe37169064be3d172305eee095aa8eb48cc/Y2H21015012_20220407113640.jpg/https://filer.eco-counter-tools.com/file/cd/d97fc859bef5a19d217f46db0a4ee144cfc19d12fe12a8f8f8d6d837dd05f3cd/Y2H19027732_20210810183209.jpg/https://filer.eco-counter-tools.com/file/d0/1aba92aeca91f0ea6146e062f7994959da2ade84f8c5cded3b9f1e8424ea98d0/15718218590430.jpg/https://filer.eco-counter-tools.com/file/d7/030e39ece3b9677fd4ab1c1de4370b0613ad1c4cafd810f4b06b6489f8304cd7/Y2H21015012_20220803103347.jpg/https://filer.eco-counter-tools.com/file/db/b61f852e0d3afa4b9be0cdcfe0046cb3bb330efa17c3941fae25199cf2134fdb/14997911938171.jpg",
+        "channel_id": "104036719",
+        "channel_name": "NO-SE",
+        "id": "100036719",
+        "name": "18 quai de l'Hôtel de Ville",
+        "id_compteur": "100036719-104036719",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png",
+        "nom_compteur": "18 quai de l'Hôtel de Ville NO-SE",
+        "installation_date": "2017-07-12",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35702,
+          48.85372
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "b51e39020a3c81c6a4542a000262c04d81376034",
+      "fields": {
+        "coordinates": [
+          48.89128,
+          2.38606
+        ],
+        "counter": "Y2H18086321",
+        "url_sites": "https://www.eco-visio.net/Photos/100047542",
+        "photos": "https://filer.eco-counter-tools.com/file/09/7b81e8cbd56b562fe76b93caf48d40c87cb73c3ec384291e73be46917b919009/Y2H18086318_20240516111325.jpg/https://filer.eco-counter-tools.com/file/6d/0c3d860cad12c700e835af6763037a4746a27da86d48341b78cadc47be84466d/Y2H18086318_20210811143808.jpg/https://filer.eco-counter-tools.com/file/93/a970f47692f2519491ec29d0863c30c8c9ae89aa62f3b95c2c895b4a6b371293/15765767542810.jpg/https://filer.eco-counter-tools.com/file/9e/aa5d9a3d845a64c2b3a3a7bd489d92ee4ac7ffea99c29fd49bd6ac821e883c9e/Y2H18086318_20240612140018.jpg/https://filer.eco-counter-tools.com/file/ae/0aad97d36f5a13d0e90b152924afb282c4497d426ff0b78ad089c32290cc16ae/Y2H18086321_20250729154346.jpg/https://filer.eco-counter-tools.com/file/e8/0b08fcb149c18e70cfeff9554a0ea043c42f1ad9b9ffeac37f179ba11d6833e8/Y2H18086321_20240716144115.jpg",
+        "channel_id": "103047542",
+        "channel_name": "NE-SO",
+        "id": "100047542",
+        "name": "Face au 48 quai de la marne",
+        "id_compteur": "100047542-103047542",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/09/7b81e8cbd56b562fe76b93caf48d40c87cb73c3ec384291e73be46917b919009/Y2H18086318_20240516111325.jpg",
+        "nom_compteur": "Face au 48 quai de la marne NE-SO",
+        "installation_date": "2018-11-29",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/09/7b81e8cbd56b562fe76b93caf48d40c87cb73c3ec384291e73be46917b919009/Y2H18086318_20240516111325.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38606,
+          48.89128
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "ffcf1757b3aa922abc25a7e98f0492b67f04a039",
+      "fields": {
+        "coordinates": [
+          48.890457,
+          2.368852
+        ],
+        "counter": "Y2H19070335",
+        "url_sites": "https://www.eco-visio.net/Photos/100047545",
+        "photos": "https://filer.eco-counter-tools.com/file/01/9482b3e7b1f4517f478f7594370730b2d69e48b701059c0a3e9ba0853be15601/Y2H18086321_20220802120348.jpg/https://filer.eco-counter-tools.com/file/7c/40d4af5bd852acd558414aa4a003eee9c5927d9622a678b23761faff2db6477c/Y2H19070335_20230710094604.jpg/https://filer.eco-counter-tools.com/file/9b/61f176d6fd1d8f76fc453cd872022a4c70c09b249f4e2108bb9b629ddec3ba9b/15440240718890.jpg/https://filer.eco-counter-tools.com/file/a3/45f440262ebfb8ac0b811541fa3aa28fc32eee634d72685eb67ae4ea967f74a3/Y2H19070335_20250729163429.jpg/https://filer.eco-counter-tools.com/file/d6/db9cd9758159b8c4d12c0f86f1aa34e3f73cf0406ac059a8973161cd311ca2d6/Y2H18086321_20210811154711.jpg/https://filer.eco-counter-tools.com/file/dd/fd62ec9730478129818734bcc50af27e479cea2f20107d43ab3d5b946d787edd/15434213706810.jpg/https://filer.eco-counter-tools.com/file/f0/55de1a96731569cb9371147d4a3db46248acad6d399f30bc2fdc05680a1887f0/Y2H19070335_20240612144102.jpg",
+        "channel_id": "104047545",
+        "channel_name": "S-N",
+        "id": "100047545",
+        "name": "Face 104 rue d'Aubervilliers",
+        "id_compteur": "100047545-104047545",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/01/9482b3e7b1f4517f478f7594370730b2d69e48b701059c0a3e9ba0853be15601/Y2H18086321_20220802120348.jpg",
+        "nom_compteur": "Face 104 rue d'Aubervilliers S-N",
+        "installation_date": "2018-11-29",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/01/9482b3e7b1f4517f478f7594370730b2d69e48b701059c0a3e9ba0853be15601/Y2H18086321_20220802120348.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368852,
+          48.890457
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "7a1e8e588154801156dd54d54bef5914c2029516",
+      "fields": {
+        "coordinates": [
+          48.84209,
+          2.30115
+        ],
+        "counter": "Y2H18086315",
+        "url_sites": "https://www.eco-visio.net/Photos/100056044",
+        "photos": "https://filer.eco-counter-tools.com/file/36/816e990e381f5028d8a171e73da7f58a7ff09a5a64514cd60e06c4aca7ba7636/15977409836620.jpg/https://filer.eco-counter-tools.com/file/4c/dcaac88515dee2486c15cf035259ad838379d0905fc8b2b53ea5d2f63f6af04c/Y2H19070359_20210810103032.jpg/https://filer.eco-counter-tools.com/file/67/c3b38e996978330bd0d0d129bda97a63296c1c89db948817c342d8eeb7ded767/Y2H18086315_20250730153745.jpg/https://filer.eco-counter-tools.com/file/92/c689aa126f466ab068a168fed73e7e817c4af0d6fe7af3817cbfef47ef18fe92/Y2H18086315_20231128100755.jpg/https://filer.eco-counter-tools.com/file/a9/0893b32959726f2ba49e32d6696c35e068801a68b5fad10f05566f9c7aad33a9/Y2H18086315_20240611150219.jpg/https://filer.eco-counter-tools.com/file/b7/7d572a0ecb91dd1cb7a00f15b7945813825f3ead578123eb3af1b63e16e956b7/Y2H19070359_20220803115521.jpg/https://filer.eco-counter-tools.com/file/c0/4e10154c52f8a588d6e4e061e4ea96717c22d20a755eb733e163f1c7042c30c0/15723669000120.jpg/https://filer.eco-counter-tools.com/file/d7/c6b27c2fa806fcd65aed632ff746f310cb163d0c373880fb82be8085fdff76d7/Y2H18086315_20250730105121.jpg/https://filer.eco-counter-tools.com/file/e5/c3a6eab4d479ad27541e627f543e6dcf8af7b80fba5ad07caf681b2f22b1c1e5/Y2H19070359_20200818105600.jpg",
+        "channel_id": "101056044",
+        "channel_name": "NE-SO",
+        "id": "100056044",
+        "name": "132 rue Lecourbe",
+        "id_compteur": "100056044-101056044",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/36/816e990e381f5028d8a171e73da7f58a7ff09a5a64514cd60e06c4aca7ba7636/15977409836620.jpg",
+        "nom_compteur": "132 rue Lecourbe NE-SO",
+        "installation_date": "2019-10-30",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/36/816e990e381f5028d8a171e73da7f58a7ff09a5a64514cd60e06c4aca7ba7636/15977409836620.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30115,
+          48.84209
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "e69b3c3bc7f3cdf86faab4013b1636aeb5393826",
+      "fields": {
+        "coordinates": [
+          48.84201,
+          2.36729
+        ],
+        "counter": "YTH19111508",
+        "url_sites": "https://www.eco-visio.net/Photos/100057329",
+        "photos": "https://filer.eco-counter-tools.com/file/12/afad0fd635a065a418aad9a455f53f21ceeb1a7b0fb409f3563e86d05807fe12/15809064759980.jpg",
+        "channel_id": "104057329",
+        "channel_name": "NO-SE",
+        "id": "100057329",
+        "name": "Totem 85 quai d'Austerlitz",
+        "id_compteur": "100057329-104057329",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/12/afad0fd635a065a418aad9a455f53f21ceeb1a7b0fb409f3563e86d05807fe12/15809064759980.jpg",
+        "nom_compteur": "Totem 85 quai d'Austerlitz NO-SE",
+        "installation_date": "2020-02-18",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/12/afad0fd635a065a418aad9a455f53f21ceeb1a7b0fb409f3563e86d05807fe12/15809064759980.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36729,
+          48.84201
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "a6a1d15f561ce1f3fddc84f7a52d679853b5569c",
+      "fields": {
+        "coordinates": [
+          48.83985,
+          2.30202
+        ],
+        "url_sites": "https://www.eco-visio.net/Photos/300014702",
+        "photos": "https://filer.eco-counter-tools.com/file/45/1cecfc3f703b622f83c347c4600acf78fe99038bb3d3f114a5ef48799f95d045/Y2H20114504_20220803114114.jpg/https://filer.eco-counter-tools.com/file/b4/be9fd8e3c7ba1367d5c186cc7f5c357f29eaffb3ed0746d08d253881fa910eb4/Y2H20114504_20220707105416.jpg/https://filer.eco-counter-tools.com/file/ea/42ec33606878b15fa6adead8f1f17ad6fbcc1544db9ac98c45bbdfa3e69a8aea/Y2H20114504_20201209121107.jpg",
+        "channel_id": "353245971",
+        "channel_name": "SO-NE",
+        "id": "300014702",
+        "name": "254 rue de Vaugirard",
+        "id_compteur": "300014702-353245971",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/45/1cecfc3f703b622f83c347c4600acf78fe99038bb3d3f114a5ef48799f95d045/Y2H20114504_20220803114114.jpg",
+        "nom_compteur": "254 rue de Vaugirard SO-NE",
+        "installation_date": "2020-11-29",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/45/1cecfc3f703b622f83c347c4600acf78fe99038bb3d3f114a5ef48799f95d045/Y2H20114504_20220803114114.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30202,
+          48.83985
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "d7a25b7d8c34013efee0175b61daa2c4cc23b4e4",
+      "fields": {
+        "coordinates": [
+          48.86922,
+          2.408714
+        ],
+        "counter": "Y2H22115096",
+        "url_sites": "https://www.eco-visio.net/Photos/300030219",
+        "photos": "https://filer.eco-counter-tools.com/file/8a/4b5c75075571a8b7f34603c7deb07bac68b24ede126ea17750ebb71d5354938a/Y2H22115096_20230131153919.jpg/https://filer.eco-counter-tools.com/file/c6/c02448838205bf8ead99379db7f486e4bb31d917b9b7cb0ce0c2c10cbd4a8dc6/Y2H22115096_20250729145529.jpg/https://filer.eco-counter-tools.com/file/f6/edc438aa71fc8cd3f47307a000cd413610653aefaebd3199687181222840eaf6/Y2H22115096_20240618115041.jpg",
+        "channel_id": "353355786",
+        "channel_name": "N-S",
+        "id": "300030219",
+        "name": "81 boulevard Mortier",
+        "id_compteur": "300030219-353355786",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/8a/4b5c75075571a8b7f34603c7deb07bac68b24ede126ea17750ebb71d5354938a/Y2H22115096_20230131153919.jpg",
+        "nom_compteur": "81 boulevard Mortier N-S",
+        "installation_date": "2023-01-31",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/8a/4b5c75075571a8b7f34603c7deb07bac68b24ede126ea17750ebb71d5354938a/Y2H22115096_20230131153919.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.408714,
+          48.86922
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "c5e8679036db583c89f8bfd39024ac8993d96fa6",
+      "fields": {
+        "coordinates": [
+          48.85976,
+          2.38884
+        ],
+        "counter": "Y2H19070363",
+        "url_sites": "https://www.eco-visio.net/Photos/300030996",
+        "photos": "https://filer.eco-counter-tools.com/file/4b/7fd5d7b90990b5df8b28ae77f4c834e0f041dcb80d93ecd1d10af609f507344b/Y2H19070363_20240618140242.jpg/https://filer.eco-counter-tools.com/file/c8/0c7f09725723379f79437ff14f042783657b1422c211f30c6e0521452658e0c8/Y2H19070363_20250729134948.jpg/https://filer.eco-counter-tools.com/file/d8/a6080f281c288e1896af511e134b7a8bbcb48c47221e5e38c01d5d73f6fa25d8/Y2H19070363_20230314110913.jpg",
+        "channel_id": "353361762",
+        "channel_name": "SE-NO",
+        "id": "300030996",
+        "name": "Face au 21 boulevard de Ménilmontant",
+        "id_compteur": "300030996-353361762",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/4b/7fd5d7b90990b5df8b28ae77f4c834e0f041dcb80d93ecd1d10af609f507344b/Y2H19070363_20240618140242.jpg",
+        "nom_compteur": "Face au 21 boulevard de Ménilmontant SE-NO",
+        "installation_date": "2023-03-14",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4b/7fd5d7b90990b5df8b28ae77f4c834e0f041dcb80d93ecd1d10af609f507344b/Y2H19070363_20240618140242.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38884,
+          48.85976
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "f0f0a0def5ff5a0753674cbb844026c30607b9a8",
+      "fields": {
+        "coordinates": [
+          48.83436,
+          2.377
+        ],
+        "counter": "Y2H21015068",
+        "url_sites": "https://www.eco-visio.net/Photos/100036718",
+        "photos": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg/https://filer.eco-counter-tools.com/file/1b/6c9013a542a3c751f94c8b9a00db0ad3485054953a37aeddf45830482d5d311b/Y2H17021629_20200818165643.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png/https://filer.eco-counter-tools.com/file/89/a417e0e7a5a6a0be002e6b9f7f43b4db5eb3f1c15aa348294378f2b8d6cfa089/Y2H21015068_20220407102319.jpg/https://filer.eco-counter-tools.com/file/92/8dd0832756788947862701438d96ba9ac1f7524794109c2db14efa91a3e5bc92/Y2H21015068_20220803125012.jpg/https://filer.eco-counter-tools.com/file/9e/f997ab4793874f0832ae24c89ef2cafc87a78e90336527f7e9be38d0f4fec39e/15977626284870.jpg/https://filer.eco-counter-tools.com/file/a3/eb19fabc6ac19ee165b9a3d367b75c23705c0bc2ef3c0b7b4950e921840633a3/15765770808100.jpg/https://filer.eco-counter-tools.com/file/c3/3cc5746fc201948a4f89469db101780cf29dcc2c29e350f53351732871bfa5c3/Y2H17021629_20210810135800.jpg/https://filer.eco-counter-tools.com/file/d4/e8110bccec80e42806d28ea2f102e3cf93875f3e8add5dfa4ea0672af45ee3d4/14997911465211.jpg/https://filer.eco-counter-tools.com/file/d9/e055c4b719c875d6a250c8caf4ed5962c847d9d3b04251f053e86b5d088c2ad9/15767555313320.jpg/https://filer.eco-counter-tools.com/file/f2/1f6decacff618a4b568543f90909d8f562fd951737e6b8f53dbe567d64f87cf2/Y2H21015068_20250729150243.jpg",
+        "channel_id": "104036718",
+        "channel_name": "NO-SE",
+        "id": "100036718",
+        "name": "39 quai François Mauriac",
+        "id_compteur": "100036718-104036718",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+        "nom_compteur": "39 quai François Mauriac NO-SE",
+        "installation_date": "2017-07-12",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377,
+          48.83436
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "d4424a753e41d853c28f1ed67e75e09a39f7f288",
+      "fields": {
+        "coordinates": [
+          48.86155,
+          2.37407
+        ],
+        "counter": "Y2H18034807",
+        "url_sites": "https://www.eco-visio.net/Photos/100044506",
+        "photos": "https://filer.eco-counter-tools.com/file/0a/cf198280e637e8e48ba373cca2d92bb531a68659ae95a46d1cab6b85adb2fa0a/Y2H18034807_20200819122746.jpg/https://filer.eco-counter-tools.com/file/45/4eaac777641e525d1129da09afa05a36b3c456d17ede005df243737a14e39945/Y2H18034807_20250729122616.jpg/https://filer.eco-counter-tools.com/file/55/d7a29510e58acac4f699640a4feacebda0b35d860e63d30c15341e14c000fb55/Y2H18034807_20210811114401.jpg/https://filer.eco-counter-tools.com/file/a3/e7f277e6bb3aaf8444d3aa185f8ab4d4c9a2999e143dca0a6b4e1622174b3aa3/15302610479460.jpg/https://filer.eco-counter-tools.com/file/ba/827f13ac9763f2bd2669c9c3fa70179d3e0d8592cde71a0332c42e65e9bc19ba/Y2H18034807_20240618130611.jpg/https://filer.eco-counter-tools.com/file/ce/12724050a91a3a05947ba1716f7ea8811dca93ff2bd79755d6fed58b0165cace/Y2H18034807_20220802151555.jpg/https://filer.eco-counter-tools.com/file/d9/b166eaaa43bf648746f10c84628d23cc4c365e3c35f4727aceff4950073dfdd9/15718236417710.jpg/https://filer.eco-counter-tools.com/file/f2/56fe7f8433c9f7e39c7178eee94a36b6e823f827f0964ea25e7db219159250f2/15978328765360.jpg",
+        "channel_id": "101044506",
+        "channel_name": "NO-SE",
+        "id": "100044506",
+        "name": "72 boulevard Voltaire",
+        "id_compteur": "100044506-101044506",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/0a/cf198280e637e8e48ba373cca2d92bb531a68659ae95a46d1cab6b85adb2fa0a/Y2H18034807_20200819122746.jpg",
+        "nom_compteur": "72 boulevard Voltaire NO-SE",
+        "installation_date": "2018-06-27",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/0a/cf198280e637e8e48ba373cca2d92bb531a68659ae95a46d1cab6b85adb2fa0a/Y2H18034807_20200819122746.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37407,
+          48.86155
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "7b35a3057d0ef8142cf3682ec71c49673bf94220",
+      "fields": {
+        "coordinates": [
+          48.890457,
+          2.368852
+        ],
+        "counter": "Y2H19070335",
+        "url_sites": "https://www.eco-visio.net/Photos/100047545",
+        "photos": "https://filer.eco-counter-tools.com/file/01/9482b3e7b1f4517f478f7594370730b2d69e48b701059c0a3e9ba0853be15601/Y2H18086321_20220802120348.jpg/https://filer.eco-counter-tools.com/file/7c/40d4af5bd852acd558414aa4a003eee9c5927d9622a678b23761faff2db6477c/Y2H19070335_20230710094604.jpg/https://filer.eco-counter-tools.com/file/9b/61f176d6fd1d8f76fc453cd872022a4c70c09b249f4e2108bb9b629ddec3ba9b/15440240718890.jpg/https://filer.eco-counter-tools.com/file/a3/45f440262ebfb8ac0b811541fa3aa28fc32eee634d72685eb67ae4ea967f74a3/Y2H19070335_20250729163429.jpg/https://filer.eco-counter-tools.com/file/d6/db9cd9758159b8c4d12c0f86f1aa34e3f73cf0406ac059a8973161cd311ca2d6/Y2H18086321_20210811154711.jpg/https://filer.eco-counter-tools.com/file/dd/fd62ec9730478129818734bcc50af27e479cea2f20107d43ab3d5b946d787edd/15434213706810.jpg/https://filer.eco-counter-tools.com/file/f0/55de1a96731569cb9371147d4a3db46248acad6d399f30bc2fdc05680a1887f0/Y2H19070335_20240612144102.jpg",
+        "channel_id": "103047545",
+        "channel_name": "N-S",
+        "id": "100047545",
+        "name": "Face 104 rue d'Aubervilliers",
+        "id_compteur": "100047545-103047545",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/01/9482b3e7b1f4517f478f7594370730b2d69e48b701059c0a3e9ba0853be15601/Y2H18086321_20220802120348.jpg",
+        "nom_compteur": "Face 104 rue d'Aubervilliers N-S",
+        "installation_date": "2018-11-29",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/01/9482b3e7b1f4517f478f7594370730b2d69e48b701059c0a3e9ba0853be15601/Y2H18086321_20220802120348.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368852,
+          48.890457
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "481613682d96bfbffd17f72d2f1fa0859786300d",
+      "fields": {
+        "coordinates": [
+          48.85735,
+          2.35211
+        ],
+        "counter": "YTH19037970",
+        "url_sites": "https://www.eco-visio.net/Photos/100050876",
+        "photos": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+        "channel_id": "104050876",
+        "channel_name": "O-E",
+        "id": "100050876",
+        "name": "Totem 64 Rue de Rivoli",
+        "id_compteur": "100050876-104050876",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+        "nom_compteur": "Totem 64 Rue de Rivoli O-E",
+        "installation_date": "2019-09-04",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35211,
+          48.85735
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "796c82a020974f54c38c0623d9df9eb549afc679",
+      "fields": {
+        "coordinates": [
+          48.86502,
+          2.35387
+        ],
+        "counter": "Y2H18086325",
+        "url_sites": "https://www.eco-visio.net/Photos/100056334",
+        "photos": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg/https://filer.eco-counter-tools.com/file/47/eb5266d3c3a40112152ca8740ee3390f7281c3aea3eb701388ad75c6b8859a47/Y2H19070380_20220802142556.jpg/https://filer.eco-counter-tools.com/file/62/0e0c75a4501eb0b6371e4433951aa7363fd5c611dd001568e240749cf7a29362/Y2H19070380_20210811110713.jpg/https://filer.eco-counter-tools.com/file/8c/b64697b4add975d0fd8c5cb1f26179a693ff34505d6e0b6be807746d472fa08c/Y2H19070380_20240612160642.jpg/https://filer.eco-counter-tools.com/file/a6/00134892759dacd8bbc6b388c2ee0e7548c75ba7e8ec76dc1f27f7e11cb7d7a6/Y2H18086325_20250729110226.jpg/https://filer.eco-counter-tools.com/file/ca/9c4a084b6343b05b184db150520e8c956fb56f97cad66decbd04754d98ab3fca/Y2H18086325_20250107094243.jpg/https://filer.eco-counter-tools.com/file/d1/e2ee9e25e5d8c6f9d7f8f77ab73c6db973a2696abe18e3dcc9d8d3386478e1d1/15765765524970.jpg",
+        "channel_id": "353504952",
+        "channel_name": "38 rue Turbigo [Bike]",
+        "id": "100056334",
+        "name": "38 rue Turbigo",
+        "id_compteur": "100056334-353504952",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+        "nom_compteur": "38 rue Turbigo 38 rue Turbigo [Bike]",
+        "installation_date": "2019-12-10",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35387,
+          48.86502
+        ]
+      }
+    },
+    {
+      "datasetid": "comptage-velo-compteurs",
+      "recordid": "c54ac3c7478ee5845b69c5539a8ee4236eb55357",
+      "fields": {
+        "coordinates": [
+          48.89683,
+          2.34521
+        ],
+        "url_sites": "https://www.eco-visio.net/Photos/300021320",
+        "photos": "https://filer.eco-counter-tools.com/file/e1/da9c028dd294adcc379cc847cf419b0abedb2e9ee76624725796575cbfea0ce1/Y2H21110997_20211130111422.jpg",
+        "channel_id": "353293614",
+        "channel_name": "N-S",
+        "id": "300021320",
+        "name": "69 Boulevard Ornano",
+        "id_compteur": "300021320-353293614",
+        "url_photos_n1": "https://filer.eco-counter-tools.com/file/e1/da9c028dd294adcc379cc847cf419b0abedb2e9ee76624725796575cbfea0ce1/Y2H21110997_20211130111422.jpg",
+        "nom_compteur": "69 Boulevard Ornano N-S",
+        "installation_date": "2021-11-30",
+        "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/e1/da9c028dd294adcc379cc847cf419b0abedb2e9ee76624725796575cbfea0ce1/Y2H21110997_20211130111422.jpg",
+        "id_photo_1": "https:",
+        "type_dimage": "jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34521,
+          48.89683
+        ]
+      }
+    }
+  ]
+}
